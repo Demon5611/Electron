@@ -1,13 +1,14 @@
 # electron-quick-start
 
+for starting:
+```
 npm i && npm start
 ```
-or
+for build app:
 ```
 npm i && npm run build
 ```
-or 
+start file uder box:
 ```
-start file  Desktop-Electron-Simple-Project-1.0.0.AppImage
+Desktop-Electron-Simple-Project-1.0.0.AppImage
 ```
-
