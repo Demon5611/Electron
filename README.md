@@ -8,7 +8,7 @@ for build app:
 ```
 npm i && npm run build
 ```
-start file "box Desktop-Electron-Simple-Project-1.0.0.AppImage" uder:
+start file 'Desktop-Electron-Simple-Project-1.0.0.AppImage" :
 ```
 https://disk.yandex.ru/d/RORrItvVip9CLw
 ```
