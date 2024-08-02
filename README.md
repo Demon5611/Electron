@@ -11,4 +11,5 @@ npm i && npm run build
 start file uder box:
 ```
 Desktop-Electron-Simple-Project-1.0.0.AppImage
+https://disk.yandex.ru/d/RORrItvVip9CLw
 ```
